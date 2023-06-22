@@ -1,5 +1,5 @@
 
-![Alt Text](./screenshot.png)
+![Alt Text](../screenshot.png)
 
 
 
