@@ -1,5 +1,9 @@
 
-website link is missing..
+![Alt Text](./screenshot.png)
+
+
+
+[LINK] : (https://aneal07.github.io/GPT-3-website/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
