@@ -3,7 +3,7 @@
 
 
 
-[Visit My Live Site](https://aneal07.github.io/GPT-3-website/) ??N.W
+[Visit My Live Site](https://aneal07.github.io/GPT-3-website/)
 
 # Getting Started with Create React App
 
